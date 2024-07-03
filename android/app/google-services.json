@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923876532157",
+    "project_id": "veterinaria-d4859",
+    "storage_bucket": "veterinaria-d4859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923876532157:android:221b79268df347ec3dfcd4",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.proyectomovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxti7S6A7Ck80nwW7BXLw2ZRNnJCrewXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
